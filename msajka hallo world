@@ -1,0 +1,7 @@
+class msajka
+{
+  public static void main (string[] args)
+  {
+  system.out.println("hallo world")
+  }
+}
